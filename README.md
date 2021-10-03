@@ -2,10 +2,10 @@
 
 ## Overview
 
-The purpose of this analysis was to ue the credit card dataset from LendingClub, a peer-to-peer lending services company, to evaluate which machine learning model works best to predict credit risk. We oversampled the data using the RandomOverSampler and SMOTE algorithms, and undersampled the data using the ClusterCentroids algorithm. Then, we used a combinatorial approach of over- and undersampling using the SMOTEENN algorith and compared two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk.
+The purpose of this analysis was to use the credit card dataset from LendingClub, a peer-to-peer lending services company, to evaluate which machine learning model works best to predict credit risk. We oversampled the data using the RandomOverSampler and SMOTE algorithms, and undersampled the data using the ClusterCentroids algorithm. Then, we used a combinatorial approach of over- and undersampling using the SMOTEENN algorith and compared two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk.
 
 
-## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+## Results
 
 ### Naive Random Oversampling
 
